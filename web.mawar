@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>profile mawar</title>
+  <link rel="stylesheet"href="style.css">
+</head>
+<body>
+  <header>
+        <li>
+          <a href="Profile"</a>
+        </li>
+  </header>
+  <h1>PROFILE</h1>
+ 
+ <ul>
+  <li><b>Nama Lengkap</b>: Mawar Anggraini Prabowo</li>
+  <li><b>Nama Panggilan</b>: Mawar</li>
+  <li><b>TTL</b>: Bekasi 28 Januari 2004</li>
+  <li><b>Agama</b>: Islam</li>
+  <li><b>Alamat</b>: JL Durian II Rt03/10 Jatiasih Bekasi</li>
+  <li><b>No Telepon</b>: 0881025291754</li>
+  <li><b>Prodi</b>: Informatika</li>
+  <li><b>Nim</b>: 5520122015</li>
+</ul>
+  
+</body>
+</html>
